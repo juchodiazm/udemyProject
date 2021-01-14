@@ -18,6 +18,7 @@ public class Appointment {
 	private Date startDate;
 	private Date endDate;
 
+
 	public Appointment() {
 
 	}
